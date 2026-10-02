@@ -1,0 +1,12 @@
+Data utilizada: 01/08/2023
+
+Percentual de Nuvens da Cena Escolhida (%):0
+
+Detalhes de cada cena (Data e % de Nuvens):
+FeatureCollection LANDSAT/LC08/C02/T1_L2 (5 elements, 0 columns)
+type: FeatureCollection
+id: LANDSAT/LC08/C02/T1_L2
+version: 1790869224953466
+columns: Object (0 properties)
+features: List (5 elements)
+properties: Object (25 properties)
